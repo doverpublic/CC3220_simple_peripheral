@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="7.4.0"/>
+	<deviceVariant value="Cortex M.CC3220SF"/>
+	<deviceFamily value="TMS470"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="16.9.7.LTS"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<templateProperties value="id=simplesample_http_CC3220SF_LAUNCHXL_tirtos_ccs.projectspec.simplesample_http_CC3220SF_LAUNCHXL_tirtos_ccs,buildProfile=release,isHybrid=true,"/>
+	<origin value="I:\ti\azure_cc3220_1_00_00_10\examples\rtos\CC3220SF_LAUNCHXL\azure\simplesample_http\tirtos\ccs\simplesample_http_CC3220SF_LAUNCHXL_tirtos_ccs.projectspec"/>
+	<filesToOpen value=""/>
+</projectOptions>
